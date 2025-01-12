@@ -34,8 +34,16 @@ We are currently in Stage 0 (Preparation) of the project development. This stage
 
 ### Week 1 (January 12-19)
 - [x] Create GitHub repository
-- [ ] Set up basic folder structure
-- [ ] Configure development environment
+- [x] Set up basic folder structure
+- [x] Configure development environment:
+  - [x] Git
+  - [x] VS Code
+  - [x] Docker Desktop
+  - [x] Kubernetes tools
+  - [x] Postman
+  - [x] Go
+  - [x] Rust
+  - [x] Flutter
 - [ ] Set up cloud service accounts
 
 ### Week 2 (January 19-26)
